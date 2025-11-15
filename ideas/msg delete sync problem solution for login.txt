@@ -1,0 +1,29 @@
+for new login after sometime and sync of msgs
+server side ✔️
+Db fields:
+isDeletedBySender
+isDeletedByReceiver
+isDeletedForBoth
+
+//algorithm
+
+1. when fetched by any user via giving its uuid return all msg that have his is either in sender  or receiver with is_Deleted_For_Both=false
+
+2. this way all data where only one side is deleted is sent to client //note this has a major privacy issue if packet is obtained by 
+hacker when msg is deleted by client but it is still entacted inside the list with just the flag that the data is deleted by the user himself.
+//but for just getting it work it is fine
+3. just return the value to user as response .
+
+client side ✔️
+Db fields:
+id Msg Deleted
+//algorithm
+
+1. make network request get data
+2. receive all data where deleted by both side is false 
+if sender is me and deleted by sender=true don't show me deleted=true
+if sender is other deleted by receiver then don't show me deleted=true
+
+
+
+

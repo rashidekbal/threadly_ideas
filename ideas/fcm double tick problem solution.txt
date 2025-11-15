@@ -1,0 +1,3 @@
+instead of sending back 2 when msg is sent send back 1;✔️
+from receiver end send an status update of received ,✔️
+send back to sender via fcm or socket with help of uuid  and msguids ✔️

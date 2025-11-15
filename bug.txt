@@ -1,0 +1,20 @@
+1.0 fix image not opening form the profile section (fixed)✔️
+2.0 when reopen the app from background check for current registered page and play media automatically (fixed) ✔️
+3.0 on any msg sent via fcm if older device is even logged in with different account gets the message (fixed) ✔️
+4.0 fix follow btn always visible when post of any user is opened (fixed) ✔️
+5.0 fix send media msg error while relogin sync ✔️
+6.0 fix undesired navigation flow when switching form one page to another using back btn ✔️
+7.0 fix the ui for the progress bar of the media message
+8.0 add open profile from suggested users section
+9.0 add notify follow request ✔️
+10.0 add notify cancel followRequest ✔️
+11.0 add notify approved followrequest ✔️
+12.0 fix load only posts of public or followed users
+13.0 replace all the follow old route with new 
+14.0 add a route to make account private ✔️
+15.0 make followers and following page to handle the 403 ✔️
+16.0 make the story page handle the 403 
+17.0 make all pending request success when an private account becomes public
+18.0 patch single post open filed to act on 404 as accessing not following and private data so nothing is fetched
+
+

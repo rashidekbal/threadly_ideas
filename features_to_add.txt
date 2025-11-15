@@ -1,0 +1,31 @@
+add feature to handle media send cancel ✔️
+add feature to send media in msg ; ✔️
+add feature to send reel in msg;✔️
+add feature to view and download media sent by other user; ✔️
+add feature to delete sent and received media from local database;✔️
+add feature to make conversation in bubble style ✔️
+add feature to select and perform operation on messages          important  ✔️
+add feature to delete sent media from server database and receiver's end; important ✔️
+add feature to make feed feature form selected post from the user profile; very important actually core feature ✔️
+add feature to make media sending in messages unblocking ✔️
+refresh new data of user on every time open the message for checking name and profile change
+add feature for dynamic reels action for custom Feed Adapter ✔️
+add feature to reply to all format of messages important  but to be done later
+add feature to implement Account privacy       very important ✔️
+add a separate section to show pending request to approve or cancel also add a cancel btn and working end point  important 
+add click listener on request card of notification section to go to the page of pending requests important
+add feature to preload reels;                  least important but should be done right after messaging feature complete
+add feature of counting views on reels         least important 
+add feature of counting views on story;        very important 
+add feature to block id;                       important
+add feature to unblock id;                     important
+add feature to edit close friends;             least important
+add feature to implement manual sliding through reel playing bar; much needed
+add feature to upload story for close friend;  least important 
+figure out and add feature to ask for random reels in reels feed without affecting user experience; very important   
+add feature to change password in account via settings; very important 
+add feature to use both reels and image posts in home section;  least important 
+add feature to get users suggestions in reels section;   important 
+add feature to search accounts;          very important 
+add feature to search for specific post; least important 
+add feature to implement media editing before uploading to post;  premium
