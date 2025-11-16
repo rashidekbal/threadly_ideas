@@ -14,6 +14,7 @@ add feature to reply to all format of messages important  but to be done later
 add feature to implement Account privacy       very important ✔️
 add a separate section to show pending request to approve or cancel also add a cancel btn and working end point  important 
 add click listener on request card of notification section to go to the page of pending requests important
+add gesture on reels like single tab double tab long press and release .
 add feature to preload reels;                  least important but should be done right after messaging feature complete
 add feature of counting views on reels         least important 
 add feature of counting views on story;        very important 
