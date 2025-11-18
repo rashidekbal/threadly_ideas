@@ -1,9 +1,0 @@
-routes to be tweaked after implementing the privacy feature
-1.0 fix getUser route ✔️
-2.0 fix getFollower and following route ✔️
-3.0 patch the get image post and get reels feed to give only posts of account you follow or public accounts ✔️
-4.0 patch the stories route to get only approved feed ✔️
-5.0 patch getpost by id of post for privacy rule ✔️ fixed
-6.0 patch single post open filed to act on 404 as accessing not following and private data so nothing is fetched
-7.0 add a separate section to show pending request to approve or cancel also add a cancel btn and working end point 
-8.0 add click listener on request card of notification section to go to the page of pending requests
