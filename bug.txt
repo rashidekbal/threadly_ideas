@@ -9,16 +9,18 @@
 9.0 add notify follow request ✔️
 10.0 add notify cancel follow Request ✔️
 11.0 add notify approved follow Request ✔️
-12.0 fix load only posts of public or followed users
-13.0 replace all the follow old route with new 
+12.0 fix load only posts of public or followed users ✔️
+13.0 replace all the follow old route with new ✔️
 14.0 add a route to make account private ✔️
 15.0 make followers and following page to handle the 403 ✔️
-16.0 make the story page handle the 403  👍
-17.0 make all pending request success when an private account becomes public 👍
-18.0 patch single post open filed to act on 404 as accessing not following and private data so nothing is fetched
-19.0 fix bug where play icon is visible on reopen and scroll even if the media is playing
+16.0 make the story page handle the 403  ✔️
+17.0 make all pending request success when an private account becomes public ✔️
+18.0 patch single post open filed to act on 404 as accessing not following and private data so nothing is fetched ✔️
+19.0 fix bug where play icon is visible on reopen and scroll even if the media is playing ✔️
 20. when sending follow request backend must check if there is any existing request just to be sure that its not due to a Ui glitch 
-else there will be two requests this can be done by middle ware in case already available just send normal answer which says ok that will not cause Ui to crash nothing in backend will crash and both side will be happy 👍
+else there will be two requests this can be done by middle ware in case already available just send normal answer which says ok that will not cause Ui to crash nothing in backend will crash and both side will be happy ✔️
 21.0 add spacing after end of group in message page
-
+22.0 fix set check for internet connection before notifying server for message seen ✔️
+23.0 fix message resend logic flaw 
+24.0 fix message send api flaw for empty message when sent reel
 
