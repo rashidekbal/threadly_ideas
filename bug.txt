@@ -4,8 +4,8 @@
 4.0 fix follow Button always visible when post of any user is opened (fixed) ✔️
 5.0 fix send media msg error while re Login sync ✔️
 6.0 fix undesired navigation flow when switching form one page to another using back button ✔️
-7.0 fix the Ui for the progress bar of the media message
-8.0 add open profile from suggested users section
+7.0 fix the Ui for the progress bar of the media message✔️
+8.0 add open profile from suggested users section ✔️
 9.0 add notify follow request ✔️
 10.0 add notify cancel follow Request ✔️
 11.0 add notify approved follow Request ✔️
@@ -19,21 +19,21 @@
 19.0 fix bug where play icon is visible on reopen and scroll even if the media is playing ✔️
 20. when sending follow request backend must check if there is any existing request just to be sure that its not due to a Ui glitch 
 else there will be two requests this can be done by middle ware in case already available just send normal answer which says ok that will not cause Ui to crash nothing in backend will crash and both side will be happy ✔️
-21.0 add spacing after end of group in message page
 22.0 fix set check for internet connection before notifying server for message seen ✔️
 23.0 fix message resend logic flaw ✔️
 24.0 fix message send API flaw for empty message when sent reel ✔️
 25.0 refactor whole message adapter for modularity ✔️
-26.0 add a network check layer before executing any actions on sent or received messages with special check if it is sent but never reached then action must be different.
+26.0 add a network check layer before executing any actions on sent or received messages with special check if it is sent but never reached then action must be different.✔️
 27.0 fix spacing for all messages form receiver end ✔️
-28.0 fix margin for visual distinction for different message groups
+28.0 fix margin for visual distinction for different message groups (dublicate);
 29.0 since all the message state are fixed add a simple seen tag after last sent message for status 3 sent for status 2 or 1 and sending for status 0  ✔️ 
-30.0 add cardView as parent of imageView in messages to have a consistent round edges in android 26 and above although minimum is 30 🫣
+30.0 add cardView as parent of imageView in messages to have a consistent round edges in android 26 and above ✔️
 31.0 fix ui state handling bug for media send features ✔️
 32.0 fix bug when media resend is hit ui not shows sending ✔️
-33.0 fix bug where action option is not being shown on failed media message
+33.0 fix bug where action option is not being shown on failed media message ✔️
 34.0 fix message send route to work with all message types ✔️
 35.0 fix race condition where if message is viewed before even notifying sender that it is send to other side then the state is lost. not need actually with new approach ✔️
-36.0 fix message deletion instant remove without crash 
-37.0 polish reel imageview
+36.0 fix message deletion instant remove without crash ✔️
+37.0 polish reel imageview✔️
+38.0 polish open image and video page form message 
 
