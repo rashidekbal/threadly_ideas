@@ -1,0 +1,6 @@
+1.0 fix account activity unexpected back press behavior
+2.0 fix symmetry of login page edit texts
+3.0 improve post interaction button click ability
+4.0 fix search bar unexpectedly hidden onResume() is called
+5.0 improve userid edit policy and introduce  '.' character support
+6.0 add resend otp button logic for email signup

@@ -1,0 +1,6 @@
+1.0 can add a middleware in route users /getUser/:userid to check if getting user  info is authorized or not❌ bad idea as need to get basic data of user even to request to follow ✔️
+2.0 can add a middleware in route story/getStories/:userid to check if getting stories is authorized for the user or not✔️
+3.0 can add a middleware in route posts/get/getUserPosts/:userid and /getPost/:postid to check authorization ✔️
+4.0 can add a middleware in route follow/getFollowers/:userid and /getFollowings/:userid to check for authorization ✔️
+
+one common middle ware can access the param and check is you are following to that person if yes then go ahed if not return 403 ✔️

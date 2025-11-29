@@ -15,6 +15,20 @@ add feature to implement Account privacy       very important ✔️
 add a separate section to show pending request to approve or cancel also add a cancel btn and working end point  important ✔️
 add click listener on request card of notification section to go to the page of pending requests important ✔️
 add feature to show unread message count badge per conversation ✔️
+add feature to search accounts;          very important  ✔️
+add feature to search for specific post; least important ✔️
+add pagination feature make it working for reels
+add pagination for explore
+add pagination for message 
+add pagination for home page 
+add pagination for custom feed
+and every where else where pagination is required thing
+add story like notification
+add notification storing on db
+add resync notification
+add new otp mobile feature
+add a password change page in settings
+add server logging feature for one place logs
 add feature to preload reels;                  least important but should be done right after messaging feature complete
 add feature of counting views on reels         least important 
 add feature of counting views on story;        very important 
@@ -27,6 +41,4 @@ figure out and add feature to ask for random reels in reels feed without affecti
 add feature to change password in account via settings; very important 
 add feature to use both reels and image posts in home section;  least important 
 add feature to get users suggestions in reels section;   important 
-add feature to search accounts;          very important 
-add feature to search for specific post; least important 
 add feature to implement media editing before uploading to post;  premium
