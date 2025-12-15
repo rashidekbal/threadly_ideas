@@ -1,0 +1,2 @@
+1.0 add pagination in logged in user posts 
+2.0 add pagination in other users account activity for posts

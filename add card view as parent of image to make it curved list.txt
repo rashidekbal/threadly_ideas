@@ -1,2 +1,2 @@
-1.0 is notifications section
-2.0 on status viewer and  inside story page
+1.0 is notifications section ✔️
+2.0 on status viewer and  inside story page ✔️

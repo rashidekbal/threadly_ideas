@@ -1,0 +1,1 @@
+1.0 fix story upload pipeline to show story upload progress

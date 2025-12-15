@@ -1,6 +1,8 @@
 
 add network request cancel policy on add destroyed in every fragment and activity that has any sort of loading and has impact on actual app working core flow like editing username and profile or register or signUp
 fix repeating posts in explore
+add on enter key execute feature in every edit text field
+handle home fragment no post or error fetching gracefully with a retry btn
 
 
 
